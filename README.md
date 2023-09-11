@@ -4,6 +4,4 @@ This is a really awesome website
 
 editing on update-readme branch
 
-Updated Locally
-
-Quick tweak
+Updates made on master on Github before rebase
